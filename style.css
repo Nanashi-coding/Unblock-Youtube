@@ -1,0 +1,42 @@
+body {
+  font-family: 'Roboto', sans-serif; /* Google Fontsなどから好みのフォントを選択 */
+  background-color: #fff;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+input[type="text"] {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 250px;
+}
+
+button {
+  background-color: #e74c3c; /* 赤 */
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+#searchResults {
+  margin-top: 20px;
+}
+
+.video-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.video-item img {
+  max-width: 100%;
+}
+
+.video-title {
+  color: #e74c3c; /* 赤で強調 */
+  font-weight: bold;
+}
