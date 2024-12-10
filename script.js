@@ -1,4 +1,4 @@
-const apiKey = 'YOUTUBE_API'; // ここに API キーを貼り付け
+const apiKey = 'AIzaSyD39LacMpl0CvVVVc1Jwe1X_5SmRDDFZN4'; // ここに API キーを貼り付け
 const searchButton = document.getElementById('searchInput');
 const searchResults = document.getElementById('searchResults');
 
